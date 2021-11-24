@@ -1,5 +1,4 @@
-# Book-Lookup
-# **Budget Tracker PWA**
+# **Book-Lookup**
 
 ### *Given a functioning book lookup app, students were asked to refactor the existing code from traditional API routes to GraphQL. This was accomplished by defining schema, mutations and queries and refactoring the app and server files to include Apollo. NOTE: there is a bug in the Auth that causes the getMe query to return undefined (11/23).* 
 
